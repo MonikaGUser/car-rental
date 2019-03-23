@@ -1,4 +1,4 @@
-package org.monia.carrental;
+package pl.sdacademy.javaktw9.carRental;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

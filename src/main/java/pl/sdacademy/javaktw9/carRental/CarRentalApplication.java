@@ -1,4 +1,4 @@
-package org.monia.carrental;
+package pl.sdacademy.javaktw9.carRental;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
