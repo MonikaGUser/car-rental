@@ -1,4 +1,4 @@
-package pl.sdacademy.javaktw9.carRental;
+package pl.sdacademy.javaktw9.carRental.model;
 
 import javax.persistence.*;
 
